@@ -1,3 +1,4 @@
+// Esta función calcula un número de la sucesión de Fibonacci según su posición.
 
 import { describe, it, expect } from 'vitest';
 import { fibonacci } from './utils/fiboJavier.js';
